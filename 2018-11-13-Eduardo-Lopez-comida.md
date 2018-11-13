@@ -6,5 +6,5 @@ Desde el 13 de noviembra hasta el 13 de diciembre (incluyendo el 13). Cuando Jai
 - Estas acciones deben cumplirse siempre y cuando no exista algo considerable y aceptable que no permita realizar la acción acordada (reuniones, dead lines, dejo la cartera, etc...).
 
 Firmas:
-- [ ] Eduardo López
+- [x] Eduardo López
 - [x] Jairo Mancebo
