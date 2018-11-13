@@ -7,4 +7,4 @@ Desde el 13 de noviembra hasta el 13 de diciembre (incluyendo el 13). Cuando jai
 
 Firmas:
 - [ ] Eduardo López
-- [ ] Jairo Mancebo
+- [x] Jairo Mancebo
