@@ -19,7 +19,7 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 
 
 
-Signatures
+Participants
 - [ ] Jairo
 - [ ] Jope
 - [ ] Bernie
@@ -29,3 +29,8 @@ Signatures
 - [ ] Byron
 - [ ] David
 - [ ] Joan
+- [ ] Eliezer
+- [ ] Clovis
+- [ ] Gabriel
+- [ ] Modesto
+- [ ] Samboy
