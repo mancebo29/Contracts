@@ -14,7 +14,7 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 | Leaving your pc unlocked                             | TBD   |
 | Leaving the air conditioner of the garden on         | TBD   |
 | Leaving the kitchen dirty                            | TBD   |
-| Leaving objects on someone's desk                     | TBD   |
+| Leaving objects on someone's desk                    | TBD   |
 | Giving spoilers                                      | TBD   |
 
 
