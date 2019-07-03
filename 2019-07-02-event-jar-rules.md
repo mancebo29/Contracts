@@ -8,7 +8,7 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 | ---------------------------------------------------- | ----- |
 | Someone swears                                       | TBD   |
 | Someone resolves your code problem                   | TBD   |
-| Coming from national with plactic bags               | TBD   |
+| Coming from national with plastic bags               | TBD   |
 | Asking for pass (once a day)                         | TBD   |
 | Rubber Duck debuggin                                 | TBD   |
 | Leaving your pc unlocked                             | TBD   |
