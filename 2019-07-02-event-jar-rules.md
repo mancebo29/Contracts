@@ -10,11 +10,11 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 | Someone resolves your code problem                   | TBD   |
 | Coming from national with plastic bags               | TBD   |
 | Asking for pass (once a day)                         | TBD   |
-| Rubber Duck debuggin                                 | TBD   |
+| Rubber Duck debugging                                | TBD   |
 | Leaving your pc unlocked                             | TBD   |
 | Leaving the air conditioner of the garden on         | TBD   |
 | Leaving the kitchen dirty                            | TBD   |
-| Leaving objects in someones desk                     | TBD   |
+| Leaving objects on someone's desk                     | TBD   |
 | Giving spoilers                                      | TBD   |
 
 
