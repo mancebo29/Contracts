@@ -29,7 +29,7 @@ Participants
 - [ ] David
 - [ ] Joan
 - [ ] Eliezer
-- [ ] Clovis
+- [x] Clovis
 - [ ] Gabriel
 - [ ] Modesto
 - [ ] Samboy
