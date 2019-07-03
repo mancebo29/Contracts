@@ -8,15 +8,14 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 | ---------------------------------------------------- | ----- |
 | Someone swears                                       | $5    |
 | Someone resolves your code problem                   | $5    |
-| Coming from national with plactic bags               | $10   |
+| Coming from national with plastic bags               | $25   |
 | Asking for pass (once a day)                         | $25   |
-| Rubber Duck debuggin                                 | $5    |
-| Leaving your pc unlocked                             | $5    |
+| Rubber Duck debugging                                | $5    |
+| Leaving your pc unlocked                             | $10   |
 | Leaving the air conditioner of the garden on         | $25   |
 | Leaving the kitchen dirty                            | $25   |
-| Leaving objects in someones desk                     | $10   |
+| Leaving objects on someone's desk                    | $10   |
 | Giving spoilers                                      | $25   |
-
 
 
 Participants
