@@ -19,7 +19,7 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 
 
 Participants
-- [ ] Jairo
+- [x] Jairo
 - [ ] Jope
 - [x] Bernie
 - [ ] Daniel
