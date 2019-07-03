@@ -24,7 +24,7 @@ Participants
 - [x] Bernie
 - [ ] Daniel
 - [ ] Didier
-- [ ] George
+- [x] George
 - [ ] Byron
 - [ ] David
 - [ ] Joan
