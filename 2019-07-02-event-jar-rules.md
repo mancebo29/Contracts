@@ -18,17 +18,18 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 
 
 Participants
-- [x] Jairo
-- [ ] Jope
-- [x] Bernie
-- [ ] Daniel
-- [ ] Didier
-- [x] George
+- [x] Angel
 - [ ] Byron
-- [ ] David
-- [ ] Joan
-- [ ] Eliezer
+- [x] Bernie
 - [x] Clovis
+- [ ] Daniel
+- [ ] David
+- [ ] Didier
+- [ ] Eliezer
 - [ ] Gabriel
+- [x] George
+- [x] Jairo
+- [ ] Joan
+- [ ] Jope
 - [ ] Modesto
 - [ ] Samboy
