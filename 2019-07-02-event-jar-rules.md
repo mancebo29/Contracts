@@ -22,7 +22,7 @@ Participants
 - [ ] Byron
 - [x] Bernie
 - [x] Clovis
-- [ ] Daniel
+- [x] Daniel
 - [ ] David
 - [ ] Didier
 - [ ] Eliezer
