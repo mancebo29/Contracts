@@ -21,7 +21,7 @@ Participants
 - [x] Jairo
 - [ ] Jope
 - [x] Bernie
-- [ ] Daniel
+- [x] Daniel
 - [ ] Didier
 - [x] George
 - [ ] Byron
