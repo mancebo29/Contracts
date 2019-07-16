@@ -27,5 +27,5 @@ Participants
 - [ ] Gabriel
 - [x] George
 - [x] Jairo
-- [ ] Joan
+- [x] Joan
 - [ ] Modesto
