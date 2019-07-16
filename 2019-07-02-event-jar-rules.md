@@ -23,7 +23,7 @@ Participants
 - [x] Clovis
 - [x] Daniel
 - [ ] David
-- [ ] Didier
+- [x] Didier
 - [ ] Gabriel
 - [x] George
 - [x] Jairo
