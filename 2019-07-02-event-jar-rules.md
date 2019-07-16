@@ -22,7 +22,7 @@ Participants
 - [x] Bernie
 - [x] Clovis
 - [x] Daniel
-- [ ] David
+- [x] David
 - [ ] Didier
 - [ ] Gabriel
 - [x] George
