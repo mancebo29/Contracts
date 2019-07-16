@@ -6,7 +6,6 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 
 | Event                                                | Price |
 | ---------------------------------------------------- | ----- |
-| Someone swears                                       | $5    |
 | Someone resolves your code problem                   | $5    |
 | Leaving your pc unlocked                             | $10   |
 | Leaving objects on someone's desk                    | $10   |
