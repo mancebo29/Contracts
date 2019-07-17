@@ -23,9 +23,9 @@ Participants
 - [x] Clovis
 - [x] Daniel
 - [x] David
-- [ ] Didier
+- [x] Didier
 - [ ] Gabriel
 - [x] George
 - [x] Jairo
-- [ ] Joan
+- [x] Joan
 - [ ] Modesto
