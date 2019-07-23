@@ -8,7 +8,7 @@
 | Dreamers                                            | 100   |
 | Key Items*                                          | 50    |
 | Spells / Spell upgrades                             | 25    |
-| Important I`tems**                                  | 20    |
+| Important Items**                                   | 20    |
 | Nail Arts                                           | 15    |
 | Nail upgrades                                       | 10    |
 | Mask Shard / Vessel Fragment                        | 10    |
