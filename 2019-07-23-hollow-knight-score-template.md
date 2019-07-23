@@ -67,7 +67,6 @@
 - [ ] Mask Shard 14
 - [ ] Mask Shard 15
 - [ ] Mask Shard 16
-
 - [ ] Vessel Fragment 1
 - [ ] Vessel Fragment 2
 - [ ] Vessel Fragment 3
