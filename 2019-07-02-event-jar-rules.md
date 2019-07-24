@@ -15,7 +15,7 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 | Leaving the air conditioner of the garden on         | $25   |
 | Leaving the kitchen dirty                            | $25   |
 | Giving spoilers                                      | $25   |
-| Some one ask you for help, but resolve the problem   |       |
+| Some one asks you for help, but resolves the problem   |       |
 | without explaining it to you                         | $35   |
 
 
