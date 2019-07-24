@@ -6,7 +6,6 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 
 | Event                                                | Price |
 | ---------------------------------------------------- | ----- |
-| Someone swears                                       | $5    |
 | Someone resolves your code problem                   | $5    |
 | Leaving your pc unlocked                             | $10   |
 | Leaving objects on someone's desk                    | $10   |
@@ -15,22 +14,21 @@ The Event Jar is an opt-in initiative where every participant must pay the defin
 | Leaving the air conditioner of the garden on         | $25   |
 | Leaving the kitchen dirty                            | $25   |
 | Giving spoilers                                      | $25   |
-| Some one asks you for help, but resolves the problem   |       |
-| without explaining it to you                         | $35   |
+| Some one asks you for help, but resolves the problem |       |
+| without explaining it to you                         | $25   |
 
 
 Participants
-- [x] Jairo
-- [ ] Jope
-- [x] Bernie
-- [ ] Daniel
-- [ ] Didier
-- [x] George
+- [x] Angel
 - [ ] Byron
-- [ ] David
-- [ ] Joan
-- [ ] Eliezer
+- [x] Bernie
 - [x] Clovis
+- [x] Daniel
+- [x] David
+- [x] Didier
 - [ ] Gabriel
 - [x] Modesto
 - [ ] Samboy
+- [x] George
+- [x] Jairo
+- [x] Joan
