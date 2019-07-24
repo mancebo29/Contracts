@@ -28,7 +28,6 @@ Participants
 - [x] Didier
 - [ ] Gabriel
 - [x] Modesto
-- [ ] Samboy
 - [x] George
 - [x] Jairo
 - [x] Joan
