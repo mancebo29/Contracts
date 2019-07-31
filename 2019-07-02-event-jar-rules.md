@@ -24,7 +24,7 @@ Participants
 - [x] Daniel
 - [x] David
 - [x] Didier
-- [ ] Gabriel
+- [x] Gabriel
 - [x] George
 - [x] Jairo
 - [x] Joan
