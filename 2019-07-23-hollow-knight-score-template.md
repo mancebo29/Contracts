@@ -1,4 +1,5 @@
 # Score Tracking Template
+- URL to calculate score: https://condescending-poincare-b63580.netlify.com/
 
 ### Beat the game
 
