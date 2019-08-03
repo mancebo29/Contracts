@@ -1,4 +1,5 @@
 # Score Tracking Template
+- URL to calculate score: https://condescending-poincare-b63580.netlify.com/
 
 ### Beat the game
 
@@ -87,6 +88,7 @@
 - [ ] Shaman Stone
 - [ ] Soul Eater
 - [ ] Dashmaster
+- [ ] Sprintmaster
 - [ ] Thorns of Agony
 - [ ] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
@@ -114,5 +116,6 @@
 - [ ] Sharp Shadow
 - [ ] Shape of Unn
 - [ ] Nailmaster's Glory
-- [ ] Dream Wielder
+- [ ] Dreamshield
+- [ ] Weaversong
 - [ ] Kingsoul / Void Heart
