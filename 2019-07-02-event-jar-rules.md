@@ -29,3 +29,4 @@ Participants
 - [x] Jairo
 - [x] Joan
 - [ ] Modesto
+- [x] Raffy
