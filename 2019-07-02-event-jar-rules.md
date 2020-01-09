@@ -22,11 +22,10 @@ Participants
 - [x] Bernie
 - [x] Clovis
 - [x] Daniel
-- [x] David
 - [x] Didier
 - [x] Gabriel
 - [x] George
 - [x] Jairo
 - [x] Joan
 - [ ] Modesto
-- [x] Raffy
+- [ ] Janiel
