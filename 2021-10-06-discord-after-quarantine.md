@@ -15,4 +15,4 @@ Davmi tendrá que comprarles un ron Macorix de piña de 1L.
 
 - [x] Davmi Valdez
 - [x] Jairo Mancebo
-- [ ] Luis Merino
+- [x] Luis Merino
