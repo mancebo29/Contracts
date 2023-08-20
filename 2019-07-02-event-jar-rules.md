@@ -28,4 +28,4 @@ Participants
 - [x] Jairo
 - [x] Joan
 - [ ] Modesto
-- [ ] Janiel
+- [x] Janiel
